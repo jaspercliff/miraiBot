@@ -1,0 +1,7 @@
+server:
+  port: 8090
+gpt:
+  trigger: 'g'
+  endPoint: https://api.openai.com/v1/chat/completions
+  secret: sk-lHaR7lcFLNx5L0dqh1qnb6OdHGPTLWCjwZpcnzVeDTiWhkqb
+
