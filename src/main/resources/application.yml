@@ -3,5 +3,5 @@ server:
 gpt:
   trigger: 'g'
   endPoint: https://api.openai.com/v1/chat/completions
-  secret: sk-lHaR7lcFLNx5L0dqh1qnb6OdHGPTLWCjwZpcnzVeDTiWhkqb
+  secret: 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
 
