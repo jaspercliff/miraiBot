@@ -49,7 +49,7 @@ public class GPTPlugin{
                         reply.add(":");
                         reply.add(answer);
                         // 发送回复消息
-                        event.getGroup().sendMessage("hhhh");
+                        event.getGroup().sendMessage(answer);
                 });
             }
         });
